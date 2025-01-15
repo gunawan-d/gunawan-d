@@ -12,6 +12,7 @@
 ### **DevOps & CI/CD**
 - 🐳 Docker | Kubernetes | Helm  
 - 🔥 Jenkins | GitHub Actions | GitLab CI  
+- ![ArgoCD](https://img.shields.io/badge/ArgoCD-4285F4?style=for-the-badge&logo=argo&logoColor=white) GitOps | Flyway | ArgoCD
  
 
 ### **Cloud & Infrastructure**
