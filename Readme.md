@@ -26,13 +26,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gunawan-d&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gunawan-d&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me  
 🔗 [LinkedIn](https://www.linkedin.com/in/gunawandwi/)  
 🔗 [Blog](https://igunawan.com)
